@@ -31,6 +31,6 @@ def spiral(n,m):
 
     return print(array)
 
-spiralArray(3,4)
+spiral(3,4)
 
 # Задание можно не засчитвывать , нашел в интернете - разбираю
