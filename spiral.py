@@ -1,4 +1,4 @@
-def spiralArray(n,m):
+def spiral(n,m):
     topX=0
     topY=0
     bottomX=m-1
